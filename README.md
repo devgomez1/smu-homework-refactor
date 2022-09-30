@@ -27,5 +27,6 @@ https://github.com/devgomez1/smu-homework-refactor
 https://devgomez1.github.io/smu-homework-refactor/
 ```
 ## Photo Example 
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/110259134/193179288-05955dce-daa1-4057-945e-5b58b671c5fb.png)
 
 
